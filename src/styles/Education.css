@@ -1,0 +1,19 @@
+.education {
+    max-width: 480px;
+    margin: 1rem auto;
+    padding: 1rem 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.education form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.education button {
+    margin-top: 0.75rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
